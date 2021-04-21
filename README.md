@@ -6,6 +6,8 @@ It has a focus on roleplay and persistent world features, bringing the additions
 
 Ember Core is based off of Rochet2's Eluna engine merged with TrinityCore.
 
+Ember Core is no longer being hosted publicly, and is available for distribution, modifications, and hosting.
+
 This is the C++ source code for the server. Install like a normal TrinityCore and add LUA or other features by browsing our repository.
 
 # ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore (3.3.5)
