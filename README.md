@@ -1,3 +1,13 @@
+## Ember Core
+
+Ember Core is a World of Warcraft server emulator for the Wrath of the Lich King 3.3.5a client.
+
+It has a focus on roleplay and persistent world features, bringing the additions of many races and custom functions. 
+
+Ember Core is based off of Rochet2's Eluna engine merged with TrinityCore.
+
+This is the C++ source code for the server. Install like a normal TrinityCore and add LUA or other features by browsing our repository.
+
 # ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore (3.3.5)
 
 [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/TrinityCore/TrinityCore.svg)](https://isitmaintained.com/project/TrinityCore/TrinityCore "Average time to resolve an issue") [![Percentage of issues still open](https://isitmaintained.com/badge/open/TrinityCore/TrinityCore.svg)](https://isitmaintained.com/project/TrinityCore/TrinityCore "Percentage of issues still open")
